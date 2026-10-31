@@ -1,0 +1,11 @@
+{
+	"id": "my-second-plugin",
+  "name": "NodeBridge",
+	"version": "1.1.0",
+  "minAppVersion": "1.14.5",
+  "description": "点击关系图谱连线创建新节点，选择保存位置，并可断开两端原有链接。",
+	"author": "徐子翔",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+  "isDesktopOnly": true
+}
